@@ -17,13 +17,13 @@
 ---
 
 ### 🌟 Notable Projects  
-- **[Muqin](#)**  
+- **[Muqin](https://github.com/Solaiman20/Muqin)**  
   A mobile app enhancing the Arabic reading experience with AI-powered features:  
   - Text summarization and visual content generation for book passages  
   - Accurate text-to-speech audiobooks in Arabic using ElevenLabs API
   - Firebase storage integration for original books 
 
-- **Stock Price Prediction**  
+- **[Stock Price Prediction](https://github.com/Solaiman20/StockPricePrediction)**  
   - Predicting Apple stock prices using LSTM models  
   - Visualized predictions and actual data for trend analysis  
 
