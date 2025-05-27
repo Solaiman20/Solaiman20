@@ -1,5 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/solaiman-al-dokhail-9240281b1)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Solaiman20)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ssaldokhail@gmail.com)
 
 # Hi there! 👋 I'm Solaiman AlDokhail
